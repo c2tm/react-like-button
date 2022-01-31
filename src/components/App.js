@@ -15,7 +15,6 @@ function App() {
     }
   }  
 
-
   return (
     <div className="App">
       <button type="submit" className="button" onClick={() => countUpdate(buttonCount + 1)}>

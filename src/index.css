@@ -12,18 +12,4 @@ code {
     monospace;
 }
 
-button {
-  border: none;
-  background-color: navy;
-  color: white;
-}
 
-button:hover {
-  cursor: pointer;
-}
-
-#root > .app {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
