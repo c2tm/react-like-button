@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Breact-like-button%7D/static/css/main.6c0a7a49.css",
+    "main.js": "/%7Breact-like-button%7D/static/js/main.6df98c77.js",
+    "static/js/787.89150820.chunk.js": "/%7Breact-like-button%7D/static/js/787.89150820.chunk.js",
+    "index.html": "/%7Breact-like-button%7D/index.html",
+    "main.6c0a7a49.css.map": "/%7Breact-like-button%7D/static/css/main.6c0a7a49.css.map",
+    "main.6df98c77.js.map": "/%7Breact-like-button%7D/static/js/main.6df98c77.js.map",
+    "787.89150820.chunk.js.map": "/%7Breact-like-button%7D/static/js/787.89150820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c0a7a49.css",
+    "static/js/main.6df98c77.js"
+  ]
+}
