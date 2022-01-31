@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap");
+
+button {
+  font-size: 18px;
+  font-family: "Nanum Gothic", sans-serif;
+  text-transform: uppercase;
+  border: none;
+  background-color: navy;
+  color: white;
+  width: 6rem;
+  height: 2rem;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
