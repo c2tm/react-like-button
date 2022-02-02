@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%7Breact-like-button%7D/static/css/main.197fcefa.css",
-    "main.js": "/%7Breact-like-button%7D/static/js/main.6df98c77.js",
-    "static/js/787.89150820.chunk.js": "/%7Breact-like-button%7D/static/js/787.89150820.chunk.js",
-    "index.html": "/%7Breact-like-button%7D/index.html",
-    "main.197fcefa.css.map": "/%7Breact-like-button%7D/static/css/main.197fcefa.css.map",
-    "main.6df98c77.js.map": "/%7Breact-like-button%7D/static/js/main.6df98c77.js.map",
-    "787.89150820.chunk.js.map": "/%7Breact-like-button%7D/static/js/787.89150820.chunk.js.map"
+    "main.css": "/react-like-button/static/css/main.cfe1e138.css",
+    "main.js": "/react-like-button/static/js/main.9daef1c7.js",
+    "static/js/787.89150820.chunk.js": "/react-like-button/static/js/787.89150820.chunk.js",
+    "index.html": "/react-like-button/index.html",
+    "main.cfe1e138.css.map": "/react-like-button/static/css/main.cfe1e138.css.map",
+    "main.9daef1c7.js.map": "/react-like-button/static/js/main.9daef1c7.js.map",
+    "787.89150820.chunk.js.map": "/react-like-button/static/js/787.89150820.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.197fcefa.css",
-    "static/js/main.6df98c77.js"
+    "static/css/main.cfe1e138.css",
+    "static/js/main.9daef1c7.js"
   ]
 }
